@@ -1,0 +1,37 @@
+footer{
+	color: red;
+	background-color: black;
+
+}
+a {
+	text-decoration: none;
+}
+
+#wrapper{
+	max-width: 940px;
+	margin: 0 auto;
+	padding: 0 5%:;
+	background: orange; 
+}
+
+#logo{
+	text-align: center;
+	margin:	0;
+}
+
+header{
+	background: #6ab47b;
+	border-color: #599a68;
+}
+
+h1, h2{
+	color: #dfe84f;
+}
+
+nav{
+	background: #6bd69c;
+}
+
+nav a, nav a:visited {
+	color: #fff;
+}
