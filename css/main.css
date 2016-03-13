@@ -65,16 +65,19 @@ h1 {
 
 h1, h2{	color: #dfe84f; }
 
-nav { background: #6bd69c; }
+/* NAVEGACION*/
 
-/* NAVIGETOR */
-nav a, nav a:visited {
-	color: #fff;}
+nav {background: #6bd69c;}
 
-nav a.selected {
-	color: #32673f;}
+nav a, nav a:visited {color: #fff;}
 
-/* pseudo*/
-nav a:hover{
-color: #32678f;
-}
+nav a.selected {color: #32673f;}
+
+nav a:hover {color: #32678f;}
+
+nav ul {list-style: none; margin: 0 10px; text-align: center;}
+
+nav li { display: inline-block;}
+
+nav a {font-weight: 800; padding: 15px 10px;}
+
