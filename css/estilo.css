@@ -1,0 +1,41 @@
+body{
+	background: url(../img/libro.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+h1{
+	font-size: 50px;
+	background: rgba(225, 67,67, .5);
+	text-align: center;
+}
+.navigacion {
+    display: block;
+    clear: both;
+    float: left;
+    width: 100%;
+    border-top: 100px solid #1f1f1f;
+    border-bottom: 10px solid #eee;
+    background-color: #fff;
+}
+
+img{
+	width: 200px;
+	height: auto;
+	border-radius: 20px;	
+	box-shadow: 10px 10px 0px #434343;
+}
+.menu{
+	list-style: none;
+	margin: 0;
+	padding: 0; 
+
+}
+p{
+	font-size: 30px;
+	background: rgba(13, 210, 228, .5);
+	text-align: left;
+	margin: 15px;
+	padding: 15px;
+	width: 20%;
+}
